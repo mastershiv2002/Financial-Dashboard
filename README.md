@@ -99,4 +99,4 @@ Enables teams to transition from static reports to interactive analysis
 
 🖼 5. Screenshots
 
-![Dashboard Preview].(https://github.com/mastershiv2002/Financial-Dashboard/blob/main/Snapshot%20of%20FinancialDashBoard.png).
+![Dashboard Preview](https://github.com/mastershiv2002/Financial-Dashboard/blob/main/Snapshot%20of%20FinancialDashBoard.png).
