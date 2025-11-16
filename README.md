@@ -98,4 +98,4 @@ Enhances strategic planning through trend and performance insights
 Enables teams to transition from static reports to interactive analysis
 
 🖼 5. Screenshots
-https://github.com/mastershiv2002/Financial-Dashboard/blob/main/Snapshot%20of%20FinancialDashBoard.png
+![Dashboard Preview].(https://github.com/mastershiv2002/Financial-Dashboard/blob/main/Snapshot%20of%20FinancialDashBoard.png)
